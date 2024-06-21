@@ -3,8 +3,8 @@ return {
         not_dependencies = {
             "lfs",
         },
-        artifact = "strset_test",
-        main = "strset_test.c",
+        artifact = "mm_arena_test",
+        main = "mm_arena_test.c",
         src = "src",
     }
 }
